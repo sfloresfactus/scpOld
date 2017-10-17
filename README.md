@@ -1,2 +1,0 @@
-# scpOld
-Scp antiguo
